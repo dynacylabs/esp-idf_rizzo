@@ -1,0 +1,3 @@
+[submodule "ghidra-rizzo"]
+	path = ghidra-rizzo
+	url = https://github.com/dynacylabs/ghidra-rizzo.git
